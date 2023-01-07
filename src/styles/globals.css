@@ -1,0 +1,26 @@
+:root{
+  --area-porta-altura: 310px;
+  --area-porta-largura: 200px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html, body{
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+body {
+   
+    background-color: #444;
+    color: #fff;
+  }
+  
+
+
+
