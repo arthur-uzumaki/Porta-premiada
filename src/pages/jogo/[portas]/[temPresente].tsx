@@ -19,7 +19,7 @@ export default function jogo() {
     setValido(quantidadePortasValidas && temPresenteValido)
 
 
-  }, [router?.query])
+  }, [portas , router?.query , router.query.temPresente])
 
   useEffect(() => {
     const portas = +router.query.portas
