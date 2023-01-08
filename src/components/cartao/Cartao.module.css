@@ -9,3 +9,12 @@
   
 
 }
+
+
+@media (max-width: 700px) {
+  .cartao{
+   width: 200px;
+   font-size: 1.5rem;
+   padding: 8px;
+  }
+}
