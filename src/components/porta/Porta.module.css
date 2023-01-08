@@ -59,3 +59,15 @@
   background-color: yellow;
   
 }
+
+@media (max-width: 760px) {
+   
+  .area{
+
+   height: 250px;
+
+  
+  }
+ 
+  
+    }
